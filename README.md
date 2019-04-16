@@ -17,5 +17,12 @@ To help python programmers experiment and learn. ***All Machine Learning algorit
    
    You can install jupyter notebook along with Anaconda Distribution(https://www.anaconda.com/distribution/).
    
+   
+#### Algorithms :
+The algorithms folder contains all the basic algorithms of Machine Learning implemented from scratch in python.
+
+#### Programming Assignments :
+The programming assignments folder contains the solutions of the programming assignments given during the course. I recommend to solve them yourself first(u can take help from the algorithms folder). Then you can compare your solution with mine. People with better solutions are welcome to send a pull request. Make a folder within the 'Programming Assignments' folder, with your github username as the folder name, with the solutions in it.
+
 #### One Friendly Advice 
 Play with the code and learn along.

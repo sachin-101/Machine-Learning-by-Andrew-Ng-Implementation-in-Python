@@ -1,7 +1,7 @@
 # Machine Learning by Andrew Ng - Implementation in Python
 To help python programmers experiment and learn. ***All Machine Learning algorithms are implemented from scratch in jupyter notebook.***
 
-### Prerequisites
+## Prerequisites
 1. Knowledge of Numpy, pandas and matplotlib library of python.
    
    You can learn about them from their respective docs - 
@@ -18,10 +18,10 @@ To help python programmers experiment and learn. ***All Machine Learning algorit
    You can install jupyter notebook along with Anaconda Distribution(https://www.anaconda.com/distribution/).
    
    
-#### Algorithms :
+## Algorithms :
 The algorithms folder contains all the basic algorithms of Machine Learning implemented from scratch in python.
 
-#### Programming Assignments :
+## Programming Assignments :
 - The programming assignments folder contains the solutions of the programming assignments given during the course. 
 
 - I recommend to solve them yourself first(u can take help from the algorithms folder). 
@@ -30,16 +30,16 @@ The algorithms folder contains all the basic algorithms of Machine Learning impl
 
 - Make a folder within the 'Programming Assignments' folder, with your github username as the folder name, with the solutions in it.
 
-#### Submission of Programming Assignments for Grading :
+## Submission of Programming Assignments for Grading :
 
 - The best way would be to clone diberge's repo https://github.com/dibgerge/ml-coursera-python-assignments, and submit your solutions to it.
 
 - Diberge's repo enables you to submit the assignments in python and grades you following the same grading scheme as that of the Coursera class. Once you are done you can send me the pull request for adding your solutions, to this repo.
 
-#### One Friendly Advice 
+### One Friendly Advice 
 - Play with the code and learn along.
 
-#### Acknowledgements
+## Acknowledgements
 
 - I would like to thank professor Andrew Ng and the crew of the Stanford Machine Learning class on Coursera for such an awesome class. 
 

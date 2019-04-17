@@ -43,5 +43,5 @@ The algorithms folder contains all the basic algorithms of Machine Learning impl
 
 - I would like to thank professor Andrew Ng and the crew of the Stanford Machine Learning class on Coursera for such an awesome class. 
 
-- I would also like to thank [Gerges Dib](https://github.com/dibgerge) for making such a helpful repository.
+- I would also like to thank [Gerges Dib](https://github.com/dibgerge) for making such a helpful [repository](https://github.com/dibgerge/ml-coursera-python-assignments), enabling us to submit our programming assignments.
    

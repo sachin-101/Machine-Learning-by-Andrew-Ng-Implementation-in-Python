@@ -2,7 +2,7 @@
 To help python programmers experiment and learn. ***All Machine Learning algorithms are implemented from scratch in jupyter notebook.***
 
 ## Prerequisites
-1. Knowledge of Numpy, pandas and matplotlib library of python.
+1. Knowledge of Numpy, pandas and matplotlib libraries of python.
    
    You can learn about them from their respective docs - 
    
@@ -17,27 +17,40 @@ To help python programmers experiment and learn. ***All Machine Learning algorit
    
    You can install jupyter notebook along with Anaconda Distribution(https://www.anaconda.com/distribution/).
    
-   
-## Algorithms :
-The algorithms folder contains all the basic algorithms of Machine Learning implemented from scratch in python.
 
-## Programming Assignments :
+## Folders :    
+### 1. Algorithms & Best Practices:
+The algorithms folder contains all the basic algorithms of Machine Learning implemented from scratch in python. It also has few notebooks explaining the best practices as mentioned by Andrew Ng in the course.
+
+### 2. Neural Networks from Scratch: 
+This folder contains neural network written from scratch using numpy and pandas. The visualizations are using Matplotlib.
+
+### 3. Programming Assignments :
 - The programming assignments folder contains the solutions of the programming assignments given during the course. 
 
 - I recommend to solve them yourself first(u can take help from the algorithms folder). 
 
 - Then you can compare your solution with mine. People with better solutions are welcome to send a pull request. 
 
-- Make a folder within the 'Programming Assignments' folder, with your github username as the folder name, with the solutions in it.
 
 ## Submission of Programming Assignments for Grading :
 
-- The best way would be to clone diberge's repo https://github.com/dibgerge/ml-coursera-python-assignments, and submit your solutions to it.
+- The best way would be to clone diberge's repo https://github.com/dibgerge/ml-coursera-python-assignments, and submit your solutions through it.
 
-- Diberge's repo enables you to submit the assignments in python and grades you following the same grading scheme as that of the Coursera class. Once you are done you can send me the pull request for adding your solutions, to this repo.
+- Diberge's repo enables you to submit the assignments in python.
+
+## Contributing :
+- You can add new Algorithms, Best Practices and Neural Networks written from scratch in the respective folders. Follow the "fork-and-pull" Git workflow.
+
+    1. Fork the repo on GitHub
+    2. Clone the project to your own machine
+    3. Commit changes to your own branch
+    4. Push your work back up to your fork
+    5. Submit a Pull request so that I can review your changes
+
 
 ### One Friendly Advice 
-- Play with the code and learn along.
+- Play with the code, change values, enjoy the math, experiment and learn along.
 
 ## Acknowledgements
 
